@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Etiquetas de Identificação",
+  "description": "Painel de Registro de Ocorrências (RNC) com Central de Gestão de Etapas do Fluxo e Usuários, mapeamento do caminho do pedido por setor e catálogo de falhas padrão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
